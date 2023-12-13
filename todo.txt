@@ -83,7 +83,7 @@ Game items (damn there is a LOT of items):
         Sword Hilt;
         Axe Handle;
         Pick Handle;
-        Tribal Drum (?);
+        Tribal Drum;
         Unstrung Bow;
     Blades:
         Wooden Blade;
@@ -138,8 +138,8 @@ Game items (damn there is a LOT of items):
         Firestarter;
         Total Biscuit; (should be more common on chests! Would help a lot in some runs such as the Djinn run)
         Crystalite Shard;
-    Drums (?): -- I have never even heard of those, perhaps I just didn't play the game the right way for over five years, who knows
-        Drum of Dexterity (?);
+    Drums:
+        Drum of Dexterity;
         Drum of Wisdom;
         Drum of Strength;
     Weapons:
@@ -233,4 +233,271 @@ Game items (damn there is a LOT of items):
         Ring of Insanity;
         Archer's Ring;
         Ring of Balance;
-    
+
+Biomes:
+    Forest;
+    Swamp;
+    Veldt;
+    Cave;
+    Dungeon;
+    Tundra;
+    Volcano;
+    Crystal Quarry;
+    Crater;
+    Scourge Lair;
+
+Creatures (not counting bosses):
+    Forest:
+        Pig;
+        Green Slime;
+        Bee;
+        Bee Hive;
+        Green Spider;
+        Boar;
+    Swamp:
+        Slug;
+        Tiki Clubsman;
+        Tiki Mage;
+    Veldt:
+        Sheep;
+        Jumping Shroom;
+        Shroom Soldier;
+        Shroom Mage;
+        Jellyfish;
+    Cave:
+        Purple Spider;
+        Bat;
+    Dungeon:
+        Skeleton Warrior;
+        Skeleton Archer;
+        Minotaur;
+        Genie; -- should be called blaze!!
+    Tundra:
+        Rabbit;
+        Blue Slime;
+        Ice Fairy;
+        Ice Knight;
+    Crystal Quarry:
+        Crystal Slug;
+        Crystal Bat;
+        Crystal Golem;
+    Volcano:
+        Fire Ox;
+        Dragon;
+        Fire Imp;
+    Crater:
+        Cosmic Skeleton;
+        Space Butterfly;
+    Scourge Lair:
+        Scourge Head;
+        Ghoul;
+        Scourge Worm;
+    Special/Event:
+        Mimic;
+        Rock Crab;
+
+Bosses:
+    All biomes (except town):
+        Scourge Guardian (not an actual boss, but still, y'know);
+        Axelark III;
+    Town:
+        Chicken King;
+    Forest:
+        Tyrannox;
+        Percyl;
+    Tundra:
+        Ice Queen;
+        Yeti;
+    Crystal Quarry:
+        Crystallized Hero;
+    Cave:
+        Broodmother;
+    Dungeon:
+        The Skeleton King;
+    Volcano:
+        Black Dragon;
+    Crater:
+        Commander;
+    Scourge Lair:
+        Scourge Wall;
+
+Companions:
+    Regen Fairy;
+    Ancient Bat;
+    Haste Beetle;
+    Gadget Guard;
+    Floaty Slime; -- my personal favourite. Can't play without it anymore!!
+    Gorgon Eye;
+    Gooey Ghost;
+    Flame of Hope;
+    4th Age Drone;
+
+Accessories (?) -- add accessories to the game would be pretty great I believe
+
+Hats:
+    Gatherer Headband;
+    Miner Cap;
+    Berserker Scarf;
+    Robin Hood Hat;
+    Magician Hat;
+    Bunny Ears;
+    Bat Wing;
+    Tyrannox Hat;
+    Wasp Glasses;
+    Tiki Mask;
+    Wizard Beard;
+    Hero Crown;
+    Shroom Hat;
+    Spider Egg;
+    Skeleton Mask;
+    Dragon Hat;
+    Scourge Mask;
+    Frost Crown;
+    Viking Helm;
+    Black Dragon Helm;
+    Skeleton King Hood;
+    Pirate Hat;
+    Sean's Head;
+    Overworld Helm;
+
+Cheat codes:
+    Cheat codes per se; -- there will be a lot lmaoo
+    GUI;
+
+Races:
+    Peon;
+    Noble;
+    Orclops;
+    Dwelf;
+    Crusader;
+    Remnant;
+    Trogon;
+    Earthkin;
+    Pigfolk;
+    Qualogg;
+    Bandicoot;
+    Djinn; -- I'm still trying to get this guy till this very day!!!
+    Lizardman;
+    Scourgeling;
+    Spirit;
+
+Traits:
+    Woodcutter;
+    Miner;
+    Gatherer;
+    Potion Brewer;
+    Artisan;
+    Aggressive;
+    Defensive;
+    Swift;
+    Healthy;
+    Big Eater;
+    Intelligent;
+    Lockmaster;
+    Pickpocket;
+
+Skills:
+    Berserker's Rage;
+    Charge;
+    Guardian's Aura;
+    Knight's Blade;
+    Throwing Axe;
+    Clairvoyance;
+    Levitate;
+    Magic Weapons;
+    Necromancer's Minion;
+    Warp;
+    Dire Wolf;
+    Druid's Arrow;
+    Fire Wisp;
+    Hunter's Roar;
+    Triple Shot;
+
+Craftings:
+    Wood Plank;
+    Wooden Blade;
+    Axe Handle;
+    Pick Handle;
+    Sword Hilt;
+    Unstrung Bow;
+    Refined Stone;
+    Stone Blade;
+    Stone Great Blade;
+    Refined Bone;
+    Bone Blade;
+    Ironite Bar;
+    Ironite Blade;
+    Ironite Great Blade;
+    Goldium Bar;
+    Goldium Blade;
+    Goldium Great Blade;
+    Diamond Bar;
+    Diamond Blade;
+    Diamond Great Blade;
+    Refined Leather;
+    Rugged Leather;
+    Tribal Leather;
+    Elegant Leather;
+    Royal Leather;
+    Luminous Leather;
+    Refined Cloth;
+    Tribal Fabric;
+    Rugged Fabric;
+    Elegant Fabric;
+    Royal Fabric;
+    Luminous Fabric;
+    String;
+    Net;
+    Fire Gem;
+    Ice Gem;
+    Thunder Gem;
+    Firestarter;
+    Wooden Axe;
+    Wooden Sword;
+    Wooden Pick;
+    Stone Axe;
+    Stone Sword;
+    Stone Pick;
+    Stone Great Axe;
+    Ironite Axe;
+    Ironite Sword;
+    Ironite Pick;
+    Ironite Great Axe;
+    Bone Axe;
+    Bone Sword;
+    Bone Pick;
+    Goldium Axe;
+    Goldium Sword;
+    Goldium Pick;
+    Goldium Great Axe;
+    Diamonite Axe;
+    Diamonite Sword;
+    Diamonite Pick;
+    Diamonite Great Axe;
+    Bow;
+    Stone Arrow;
+    Bone Arrow;
+    Ironite Arrow;
+    Goldium Arrow;
+    Diamonite Arrow;
+    Bug Net;
+    Fireball;
+    Frosthard;
+    Bolt;
+    Firebrand;
+    Icebrand;
+    Thunderbrand;
+    HP Potion;
+    Big HP Potion;
+    Mana Potion;
+    Big Mana Potion;
+    Cooked Meat;
+    Cooked Chicken;
+    Mysterious Potion;
+    Big Mysterious Potion;
+
+Physics:
+    Gravity;
+    Collision;
+    Dashes;
+    Jumps;
