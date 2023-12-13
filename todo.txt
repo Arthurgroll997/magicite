@@ -501,3 +501,24 @@ Physics:
     Collision;
     Dashes;
     Jumps;
+
+NPCs:
+    Grognar (Blacksmith);
+    Flora (Tailor);
+    Finn (Leatherworker);
+    Havel (Hoarder);
+
+Town Misc:
+    Altars;
+    Items for sale; -- perhaps create an NPC that shows a screen for trades??
+
+General Misc:
+    Camera movement;
+    Platform generation;
+    Ore generation;
+    Spawn (Player & Creatures);
+    Death/Endgame screen;
+    Music & Sounds;
+    District transition;
+    Sprite loading;
+
