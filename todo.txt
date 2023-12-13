@@ -1,0 +1,236 @@
+Todos:
+
+GUI:
+    Main Screen:
+        Show logo;
+        Fire animation;
+        Moving background animation;
+        Buttons:
+            Play button;
+            Stats;
+            Options:
+                Fullscreen;
+                Choose resolution;
+                Delete data;
+                Audio level;
+                Credits;
+            Quit;
+    Character selection screen:
+        Name text input;
+        Stats randomizer;
+        Stats (labels);
+        Race selector;
+        Variant changer button;
+        Hat selector;
+        Companion selector;
+        Mode selector button;
+        Traits buttons;
+        Back button;
+        Create button;
+
+(Probably everything below is all thanks to https://magicite.fandom.com)
+The ones noted with (?) is because I have never seen them (btw I played this game a LOT and I have
+almost all of the hats, races and companions. So I believe they have been removed later on in the game, so
+they won't be a priority)
+
+Game items (damn there is a LOT of items):
+    Vegetation:
+        Wood;
+        Wooden Stick;
+        String;
+        Herb;
+        Shroom;
+        Root;
+    Ores:
+        Stone;
+        Coal;
+        Ironite Ore;
+        Goldium Ore;
+        Diamonite Ore;
+        Crystalite Fragment;
+    Creature parts;
+        Web;
+        Monster Bone;
+        Monster Pelt;
+        Monster Hide;
+    Food:
+        Cooked Meat;
+        Cooked Chicken;
+        Raw Meat;
+        Raw Chicken;
+    Bugs:
+        Fire Bug;
+        Ice Bug;
+        Thunder Bug;
+    Keys:
+        Key (?);
+        Mystery Key (?);
+    Bars:
+        Ironite Bar;
+        Goldium Bar;
+        Diamonite Bar;
+    Gems:
+        Fire Gem;
+        Ice Gem;
+        Thunder Gem;
+    Refined:
+        Refined Stone;
+        Refined Bone;
+        Refined Leather;
+        Refined Cloth;
+    Parts:
+        Wooden Plank;
+        Sword Hilt;
+        Axe Handle;
+        Pick Handle;
+        Tribal Drum (?);
+        Unstrung Bow;
+    Blades:
+        Wooden Blade;
+        Bone Blade;
+        Stone Blade;
+        Ironite Blade;
+        Goldium Blade;
+        Diamonite Blade;
+    Great Blades:
+        Stone Great Blade; --> isn't on the wiki's item list somehow, but it does exist!! edit: I added it on the wiki.
+        Ironite Great Blade;
+        Goldium Great Blade;
+        Diamonite Great Blade;
+    Fabric:
+        Tribal Fabric;
+        Rugged Fabric;
+        Elegant Fabric;
+        Royal Fabric;
+        Luminous Fabric;
+    Leather:
+        Tribal Leather;
+        Rugged Leather;
+        Elegant Leather;
+        Royal Leather;
+        Luminous Leather;
+    Potions:
+        HP Potion;
+        Big HP Potion;
+        Mana Potion;
+        Big Mana Potion;
+        Mysterious Potion;
+        Big Mysterious Potion;
+        Vial of Poison;
+    Axes:
+        Wooden Axe;
+        Bone Axe;
+        Stone Axe;
+        Ironite Axe;
+        Goldium Axe;
+        Diamonite Axe;
+        Emerald Combat Axe;
+    Piks:
+        Wooden Pick;
+        Bone Pick;
+        Stone Pick;
+        Ironite Pick;
+        Goldium Pick;
+        Diamonite Pick;
+    Other:
+        Net;
+        Bug Net;
+        Firestarter;
+        Total Biscuit; (should be more common on chests! Would help a lot in some runs such as the Djinn run)
+        Crystalite Shard;
+    Drums (?): -- I have never even heard of those, perhaps I just didn't play the game the right way for over five years, who knows
+        Drum of Dexterity (?);
+        Drum of Wisdom;
+        Drum of Strength;
+    Weapons:
+        Wooden Sword;
+        Bone Sword;
+        Stone Sword;
+        Ironite Sword;
+        Goldium Sword;
+        Diamonite Sword;
+        Emerald Katana;
+        Obsidian Sword;
+        Lightbringer;
+        Scourge Blade;
+        Laser Sword; -- The ones who tried the Djinn run know this one pretty well
+        Jelly Blade;
+    Great Axes:
+        Wooden Club;
+        Stone Great Axe;
+        Ironite Great Axe;
+        Goldium Great Axe;
+        Diamonite Great Axe;
+        Zweihander;
+        Firebrand;
+        Icebrand;
+        Thunderbrand;
+        The Philibuster;
+    Arrows (there could be a Wooden Arrow - I'll try my best to add this one!!):
+        Bone Arrow;
+        Stone Arrow;
+        Iron Arrow;
+        Goldium Arrow;
+        Diamonite Arrow;
+    Bows:
+        Fire Bow;
+        Crystal Bow; -- Fun fact is that I didn't know this item existed because I was afraid of the quarry crystal biome, so I never obtained it. I also hated the other snowy biome. I am pretty sure this bow does exist, I just have not obtained it, and I probably won't to be honest
+        Laser Crossbow;
+        Wooden Bow;
+    Staves:
+        Fireball;
+        Bolt;
+        Frosthard;
+        Summon Zombie;
+    Helms:
+        Bone Helm;
+        Stone Helm;
+        Ironite Helm;
+        Goldium Helm;
+        Diamonite Helm;
+    Armor:
+        Bone Armor;
+        Stone Armor;
+        Ironite Armor;
+        Goldium Armor;
+        Diamonite Armor;
+    Cap:
+        Tribal Cap;
+        Rugged Cap;
+        Elegant Cap;
+        Royal Cap;
+        Luminous Cap;
+    Cloak:
+        Tribal Cloak;
+        Rugged Cloak;
+        Elegant Cloak;
+        Royal Cloak;
+        Luminous Cloak;
+    Hood:
+        Tribal Hood;
+        Rugged Hood;
+        Elegant Hood;
+        Royal Hood;
+        Luminous Hood;
+    Robes:
+        Tribal Robes;
+        Rugged Robes;
+        Elegant Robes;
+        Royal Robes;
+        Luminous Robes;
+    Shields:
+        Bone Shield;
+        Stone Shield;
+        Ironite Shield;
+        Goldium Shield;
+        Diamonite Shield;
+    Rings:
+        Ring of Power;
+        Ring of Wisdom;
+        Ring of Nature;
+        Ring of Life;
+        Ring of Range;
+        Ring of Insanity;
+        Archer's Ring;
+        Ring of Balance;
+    
